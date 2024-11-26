@@ -10,11 +10,14 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "add": "^2.0.6",
+    "npm": "^10.9.1",
     "nuxt": "^3.14.1592",
     "vue": "latest",
     "vue-router": "latest"
   },
   "devDependencies": {
+    "@nuxtjs/supabase": "^1.4.3",
     "@nuxtjs/tailwindcss": "^6.12.2"
   }
 }
